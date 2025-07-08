@@ -1,6 +1,6 @@
 # larn.nvim
 
-A simple and elegant dark theme for Neovim, inspired by `larn.zsh-theme`.
+A simple and elegant dark theme for Neovim, inspired by `tourcoder/larn.zsh-theme`.
 
 ![larn.nvim-theme](/larn-nvim-theme.png)  
 *Font used in the screenshot: [**Hack Nerd Font Mono**](https://www.nerdfonts.com/font-downloads)*
