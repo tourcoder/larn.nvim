@@ -3,16 +3,13 @@
 A simple and elegant dark theme for Neovim, inspired by `larn.zsh-theme`.
 
 ![larn.nvim-theme](/larn-nvim-theme.png)  
-
----
+*Font used in the screenshot: [**Hack Nerd Font Mono**](https://www.nerdfonts.com/font-downloads)*
 
 ### Features
 
 - Carefully tuned dark color palette with a cool tone
 - Built-in support for Lualine statusline
 - Syntax highlighting for common filetypes
-
----
 
 ### Installation
 
@@ -29,8 +26,6 @@ Using [lazy.nvim](https://github.com/folke/lazy.nvim):
 }
 ```
 
----
-
 ### Lualine Support
 
 ```lua
@@ -40,8 +35,6 @@ require("lualine").setup({
   }
 })
 ```
-
----
 
 ### Color Palette
 
@@ -57,8 +50,6 @@ require("lualine").setup({
 | Type            | `#a0cfff` |
 | Cursor Line     | `#1a2a33` |
 | Visual Select   | `#3c4b59` |
-
----
 
 ### Lualine Theme Colors
 
@@ -76,8 +67,6 @@ insert  = { a = { bg = "#0e1a22", fg = "#80dfff", gui = "bold" } },
 visual  = { a = { bg = "#3c4b59", fg = "#a8e6cf", gui = "bold" } },
 replace = { a = { bg = "#1a2a33", fg = "#ffd180", gui = "bold" } },
 ```
-
----
 
 ### License
 
